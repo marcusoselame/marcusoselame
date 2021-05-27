@@ -6,5 +6,5 @@
 🤔 I’m looking for help with JavaScript. <br>
 💬 Ask me about anything. <br>
 📫 How to reach me: oselame.marcus@gmail.com <br>
-⚡ Fun fact: I am currently living in the 4th country (Brazil > Italy > Ireland > Romania). <br>
+⚡ Fun fact: I am currently living in the 4th country of my life (Brazil > Italy > Ireland > Romania). <br>
 
