@@ -1,6 +1,6 @@
 ### Hello! Here is what I am working on! 👋
 
-🔭 I’m currently working on warranty claims assessor (nothing related to code). <br>
+🔭 I’m currently working as warranty claims assessor (nothing related to coding). <br>
 🌱 I’m currently learning HTML, CSS, Javascript. After get more experienced at this matter, I will learn ReactJS. <br>
 👯 I’m looking to collaborate on HTML, CSS, Javascript. <br>
 🤔 I’m looking for help with JavaScript. <br>
